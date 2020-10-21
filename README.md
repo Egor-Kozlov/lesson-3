@@ -1,1 +1,1 @@
-# lesson-3
+# https://egor-kozlov.github.io/lesson-3/
